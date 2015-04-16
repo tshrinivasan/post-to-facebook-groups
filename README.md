@@ -23,3 +23,5 @@ python post_to_fb_groups.py
 Note that you have to be a member ith posting permission to the groups, you add in this file.
 
 
+License : GPL V3
+
