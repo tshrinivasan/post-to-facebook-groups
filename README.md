@@ -1,7 +1,7 @@
 # post-to-facebook-groups
 
 
-#Author: T Shrinivasan <tshrinivasan@gmail.com>
+Author: T Shrinivasan <tshrinivasan@gmail.com>
 
 
 This is a python script to post some content to multiple facebook groups automatically.
