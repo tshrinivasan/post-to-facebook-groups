@@ -11,7 +11,7 @@ Edit the file post_to_fb_groups.py
 1. get api from here  https://developers.facebook.com/tools/explorer
 and fill the variable api at line 8
 
-2. After line 18, in the vatiable message, add your content
+2. After line 18, in the variable message, add your content
 
 3. Find the ids of your desired groups from http://lookup-id.com/
 and add this in this array groups at line 32
