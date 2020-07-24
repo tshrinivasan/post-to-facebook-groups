@@ -1,5 +1,6 @@
-# post-to-facebook-groups
+# post-to-facebook-groups - Not working
 
+# Note : This code worked at 2015. But not in 2020. This is too old. Facebook changed all its API and does not allow posting to groups in bulk. Dont use this repo. Keeping here for archive purpose only.
 
 Author: T Shrinivasan <tshrinivasan@gmail.com>
 
